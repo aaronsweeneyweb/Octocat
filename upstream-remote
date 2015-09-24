@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words.
+To connect to repositories together, you need to creat a remote. After you have cloned a repository to your directory and finished working on it, to apply the changes back to the original repository you create an 'upstream' remote.
